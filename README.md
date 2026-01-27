@@ -1,6 +1,6 @@
 <h1 align="center">Sid (avsc-sid)</h1>
 
-<p align="center">I build <strong>real-time systems</strong> and <strong>tools that run unattended</strong>—from Discord bots and chat servers to browser extensions and competitive-programming solutions. I like projects where <strong>performance, reliability, and security</strong> actually matter.</p>
+<h6 align="center">I build <strong>real-time systems</strong> and <strong>tools that run unattended</strong>—from Discord bots and chat servers to browser extensions and competitive-programming solutions. I like projects where <strong>performance, reliability, and security</strong> actually matter.</h6>
 
 ---
 
