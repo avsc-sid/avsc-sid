@@ -22,6 +22,12 @@ My GitHub is a record of that learning arc: **real-time systems**, **security-mi
 
 ---
 
+## Tech I use (and why)
+**Rust** (safety + systems thinking), **C++** (performance + constraints),  
+**Python/JS** (rapid iteration + product features), **C#** (Windows services), **Java** (foundations).
+
+---
+
 ## My learning arc (what I keep chasing)
 
 ### 1) From “it works” → “it holds up”
@@ -112,12 +118,6 @@ Repo: https://github.com/avsc-sid/BingRewards-AutoSearch
   https://github.com/avsc-sid/MyScripts
 - BankAccountSimulation-Java — fundamentals project  
   https://github.com/avsc-sid/BankAccountSimulation-Java
-
----
-
-## Tech I use (and why)
-**Rust** (safety + systems thinking), **C++** (performance + constraints),  
-**Python/JS** (rapid iteration + product features), **C#** (Windows services), **Java** (foundations).
 
 ---
 
