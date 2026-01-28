@@ -13,7 +13,7 @@
 
 ## Featured Projects
 
-### 🗨️ Summer Project - Statistical Model to Predict Treatment Protocol *(Python)*
+### 🎯 Summer Project - Statistical Model to Predict Treatment Protocol *(Python)*
 Using anonymized dataset of 4,600 fertility-treatment patient records, I built an end-to-end predictive modeling pipeline in Python leveraging on libraries *pandas and scikit-learn.*
 - Clean + standardize data columns (dates, units, categories)
 - Privacy-Safe Steps - Anonymize / De-identify (remove names/IDs, shift dates, bucket ages)
