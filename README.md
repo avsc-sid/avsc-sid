@@ -1,6 +1,6 @@
-<h1 align="center">Sid (avsc-sid)</h1>
+<h1 align="center">Shobhansiddhardh Alapati (avsc-sid)</h1>
 
-<h6 align="center">I build <strong>real-time systems</strong> and <strong>tools that run unattended</strong>—from Discord bots and chat servers to browser extensions and competitive-programming solutions. I like projects where <strong>performance, reliability, and security</strong> actually matter.</h6>
+<h6 align="left">I build <strong>real-time systems</strong> and <strong>tools that run unattended</strong>—from Discord bots and chat servers to browser extensions and competitive-programming solutions. I like projects where <strong>performance, reliability, and security</strong> actually matter.</h6>
 
 ---
 
@@ -23,6 +23,7 @@ Using anonymized dataset of 4,600 fertility-treatment patient records, I built a
 - Define outcomes (clinical pregnancy, ongoing pregnancy, live birth, miscarriage)
 - Quality checks (duplicates, impossible values, cross-field consistency)
 - Output: clean CSV/Parquet + data dictionary + QC report (and optionally baseline descriptive stats)
+
 Repo: https://github.com/avsc-sid/Statistical-Model-to-Predict-Treatment-Protocol-
 
 ### 🗨️ SkyChatServer-RUST (full-stack chat platform)
