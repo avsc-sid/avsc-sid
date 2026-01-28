@@ -13,6 +13,18 @@
 
 ## Featured Projects
 
+### 🗨️ Summer Project - Statistical Model to Predict Treatment Protocol *(Python)*
+Using anonymized dataset of 4,600 fertility-treatment patient records, I built an end-to-end predictive modeling pipeline in Python leveraging on libraries *pandas and scikit-learn.*
+- Clean + standardize data columns (dates, units, categories)
+- Privacy-Safe Steps - Anonymize / De-identify (remove names/IDs, shift dates, bucket ages)
+- Handle missingness (patterns, imputation options, “missing-not-at-random” flags)
+- Create analysis-ready tables (patients, clinicals, cycles, treatment, outcomes)
+- Engineer features (AMH/AFC buckets, stimulation response, patient monitoring)
+- Define outcomes (clinical pregnancy, ongoing pregnancy, live birth, miscarriage)
+- Quality checks (duplicates, impossible values, cross-field consistency)
+- Output: clean CSV/Parquet + data dictionary + QC report (and optionally baseline descriptive stats)
+Repo: https://github.com/avsc-sid/Statistical-Model-to-Predict-Treatment-Protocol-
+
 ### 🗨️ SkyChatServer-RUST (full-stack chat platform)
 A product-style chat system that's a successor to `ChatServer-RUST` with real features and a clear roadmap:
 - members page, built-in chat, auto message loading, reply support
