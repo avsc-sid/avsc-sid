@@ -24,7 +24,7 @@ Using anonymized dataset of 4,600 fertility-treatment patient records, I built a
 - Quality checks (duplicates, impossible values, cross-field consistency)
 - Output: clean CSV/Parquet + data dictionary + QC report (and optionally baseline descriptive stats)
 
-Repo: https://github.com/avsc-sid/Statistical-Model-to-Predict-Treatment-Protocol-
+Repo: https://github.com/avsc-sid/Statistical-Model-to-Predict-Treatment-Protocol
 
 ### 🗨️ SkyChatServer-RUST (full-stack chat platform)
 A product-style chat system that's a successor to `ChatServer-RUST` with real features and a clear roadmap:
