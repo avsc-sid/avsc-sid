@@ -5,6 +5,7 @@
 ---
 
 ## What I’m focused on
+- **Statistics & Modeling:** turning messy real-world data into reliable, interpretable predictions
 - **Systems & Security:** auth flows, encrypted storage, safe-by-default design, deployment scripts
 - **Product-minded engineering:** features users notice (chat UX, moderation tooling, progressive enhancement)
 - **Algorithmic rigor:** Hackathon-style constraint-driven problem solving in C++
