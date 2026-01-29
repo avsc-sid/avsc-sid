@@ -7,7 +7,7 @@
 ## What I’m focused on
 - **Systems & Security:** auth flows, encrypted storage, safe-by-default design, deployment scripts
 - **Product-minded engineering:** features users notice (chat UX, moderation tooling, progressive enhancement)
-- **Algorithmic rigor:** USACO-style constraint-driven problem solving in C++
+- **Algorithmic rigor:** Hackathon-style constraint-driven problem solving in C++
 
 ---
 
@@ -45,14 +45,6 @@ A collection of Discord bots and iterations of “SkyBot” across languages:
 - guild tooling + virtual currency + fun commands + leveling + music
 - multiple generations (Python / JS) + Rust pre-release rewrite  
 Repo: https://github.com/avsc-sid/DiscordBots
-
-### 🧠 USACO (Contest + Practice Archive)
-Competitive programming solutions in C++:
-- **MyUSACOCode (Jan 2026):** contest implementations (Chip Exchange, COW Splits, Photoshoot)
-- **USACOSamples:** curated Bronze/Silver solutions across many classic topics  
-Repos:
-- https://github.com/avsc-sid/MyUSACOCode
-- https://github.com/avsc-sid/USACOSamples
 
 ### 🧰 SaveLocalWebsiteResources-JS (Chromium extension)
 A browser extension (with DevTools panel UI) to download/save a website’s resources.  
